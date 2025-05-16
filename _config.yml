@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marie Kaul"
-  avatar           : "/images/headshot_mck.jpg"
+  avatar           : "headshot_mck.png"
   bio              : "PhD Student in Economics, Stockholm University"
   location         : "Stockholm"
   employer         : "Stockholm University"
