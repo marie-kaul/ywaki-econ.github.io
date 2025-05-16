@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marie Kaul's website"
+title: "Hej!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student at the Department of Economics at Stockholm University. My research interests include urban and gender economics, and economic history. A long time ag I also dabble(d) in empirical revealed preference. 
+I am a first-year PhD in the Department of Economics at Stockholm University. 
 
-**Contact**: marie.kaul@su.se
+My research interests include urban, gender, and public economics. 
+
+I previously worked as a predoctoral research fellow at the Stanford Institute for Economic Policy Research (SIEPR) with Professor Rebecca Diamond. Before this, I earned the Master of Philosophy in Economics at the University of Oxford, and a BA in Economics at the University of Manchester. 
+
+Feel free to reach out at marie.kaul@su.se!
