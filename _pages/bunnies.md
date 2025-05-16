@@ -9,3 +9,5 @@ Just a few minutes from the Economics Department at SU there's a [small farm](ht
 
 
 ![Chubby bunny](/images/IMG_1301.jpeg)
+
+<img src="/images/IMG_1301.jpeg" alt="Chubby bunny" style="width:50%;">
