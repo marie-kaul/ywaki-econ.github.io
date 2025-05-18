@@ -310,3 +310,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# _config.yml
+minimal_mistakes_skin: "default"
+sass:
+  style: compressed
+
+# Add this line if not already there
+include: ["_pages", "assets"]
+
