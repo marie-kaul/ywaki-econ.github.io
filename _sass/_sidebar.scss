@@ -73,17 +73,16 @@
   display: table-cell;
   vertical-align: top;
   width: 200px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: 200;
-    height: 200;
+    width: 200px;  // ✅ Fixed
+    height: 200px; // ✅ Fixed
   }
 
   img {
-    max-width: 200px;
+    width: 200px;      // ✅ Explicit control
+    height: 200px;     // ✅ Explicit control
     border-radius: 50%;
 
     @include breakpoint($large) {
