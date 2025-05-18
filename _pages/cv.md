@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/mariekaul_cv.pdf" width="100%" height="600px">
-  This browser does not support PDFs. Please download the PDF to view it: <a href="/mariekaul_cv.pdf">Download PDF</a>
+<iframe src="/files/mariekaul_cv.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="/files/mariekaul_cv.pdf">Download PDF</a>
 </iframe>
