@@ -83,7 +83,7 @@ author:
   name             : "Marie Kaul"
   avatar           : "headshot_mck.png"
   bio              : "PhD Student in Economics, Stockholm University"
-  location         : "Stockholm"
+  location         : #"Stockholm"
   employer         : "Stockholm University"
   pubmed           : 
   googlescholar    : 
